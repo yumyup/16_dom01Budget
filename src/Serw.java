@@ -11,4 +11,5 @@ public class Serw {
         Connection connection = DriverManager.getConnection(url, userName, password);  // to wzwyż  standardowo dodajemy do baz sql
 
     }
+
 }

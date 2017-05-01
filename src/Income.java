@@ -1,7 +1,10 @@
 
 public class Income extends Item {
-    public Income(String description, double amout, String date) {
-        super(description, amout, date);
+    public Income(String type, String description, double amout, String date) {
+
+    }
+
+    public Income() {
     }
 
     public String show() {
